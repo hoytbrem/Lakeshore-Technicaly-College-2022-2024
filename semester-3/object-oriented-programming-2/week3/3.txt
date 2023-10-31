@@ -1,0 +1,26 @@
+Smith 15.50 40
+Johnson 12.75 35
+Williams 14.25 42
+Jones 13.00 38
+Brown 16.00 44
+Miller 17.25 37
+Davis 14.00 39
+Garcia 13.50 43
+Rodriguez 12.75 36
+Martinez 15.00 41
+Hernandez 16.50 38
+Lopez 13.25 35
+Gonzalez 14.75 42
+Wilson 18.00 45
+Anderson 13.75 34
+Thomas 16.25 40
+Jackson 12.25 37
+White 15.75 41
+Harris 14.50 36
+Martin 12.00 33
+Lee 16.75 44
+Walker 13.00 39
+Clark 15.25 38
+Lewis 14.25 37
+Young 12.50 35
+
